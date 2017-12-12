@@ -7,12 +7,11 @@
 \pard\pardeftab720\sl320\partightenfactor0
 
 \f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
-plotly==2.2.1\
+\outl0\strokewidth0 \strokec2 plotly==2.2.3\
 dash==0.19.0\
 dash-core-components==0.14.0\
 dash-html-components==0.8.0\
 dash-renderer==0.11.1\
 dash.ly==0.17.3\
 pandas==0.19.1\
-gunicorn==19.6.0\
-}
+gunicorn==19.6.0}
